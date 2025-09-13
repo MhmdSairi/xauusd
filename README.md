@@ -1,0 +1,2 @@
+# xauusd
+xauusd
