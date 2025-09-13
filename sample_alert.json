@@ -1,0 +1,9 @@
+{
+  "symbol": "{{ticker}}",
+  "side": "BUY",
+  "price": "{{close}}",
+  "sl": "{{close}} - 2.0",
+  "tp": "{{close}} + 4.0",
+  "timeframe": "{{interval}}",
+  "note": "Breakout MA 200"
+}
